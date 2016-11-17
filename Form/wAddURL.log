@@ -1,0 +1,26 @@
+Línea 17: la clase SistemaChocano.mButton del control BtnClose no era una clase de control cargada.
+Línea 53: la clase SistemaChocano.mButton del control BtnOK no era una clase de control cargada.
+Línea 63: la clase SistemaChocano.mButton del control BtnCancel no era una clase de control cargada.
+Línea 110: la clase SistemaChocano.ucImage del control iconLock no era una clase de control cargada.
+Línea 24: el nombre de la propiedad _ExtentX de BtnClose no es válido.
+Línea 25: el nombre de la propiedad _ExtentY de BtnClose no es válido.
+Línea 17: no se pudo establecer la propiedad Picture de BtnClose.
+Línea 59: el nombre de la propiedad _ExtentX de BtnOK no es válido.
+Línea 60: el nombre de la propiedad _ExtentY de BtnOK no es válido.
+Línea 53: no se pudo establecer la propiedad Picture de BtnOK.
+Línea 69: el nombre de la propiedad _ExtentX de BtnCancel no es válido.
+Línea 70: el nombre de la propiedad _ExtentY de BtnCancel no es válido.
+Línea 63: no se pudo establecer la propiedad Picture de BtnCancel.
+Línea 115: el nombre de la propiedad _ExtentX de iconLock no es válido.
+Línea 116: el nombre de la propiedad _ExtentY de iconLock no es válido.
+Línea 117: el nombre de la propiedad bvData de iconLock no es válido.
+Línea 118: el nombre de la propiedad bData de iconLock no es válido.
+Línea 119: el nombre de la propiedad Filename de iconLock no es válido.
+Línea 120: el nombre de la propiedad eScale de iconLock no es válido.
+Línea 121: el nombre de la propiedad lContrast de iconLock no es válido.
+Línea 122: el nombre de la propiedad lBrightness de iconLock no es válido.
+Línea 123: el nombre de la propiedad lAlpha de iconLock no es válido.
+Línea 124: el nombre de la propiedad bGrayScale de iconLock no es válido.
+Línea 125: el nombre de la propiedad lAngle de iconLock no es válido.
+Línea 126: el nombre de la propiedad bFlipH de iconLock no es válido.
+Línea 127: el nombre de la propiedad bFlipV de iconLock no es válido.
